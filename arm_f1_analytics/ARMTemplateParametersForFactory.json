@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "factoryName": {
+            "value": "f1-adfws"
+        },
+        "ls_adls_accountKey": {
+            "value": ""
+        },
+        "ls_adls_properties_typeProperties_url": {
+            "value": "https://databricksf1extadls.dfs.core.windows.net/"
+        },
+        "ls_databricks_properties_typeProperties_existingClusterId": {
+            "value": "0223-073630-uywfmxzv"
+        },
+        "trigger1_properties_pipeline_parameters_p_window_end_date": {
+            "value": "@trigger().outputs.windowEndTime"
+        }
+    }
+}
