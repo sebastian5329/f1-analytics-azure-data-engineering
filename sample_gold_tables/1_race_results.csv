@@ -1,0 +1,41 @@
+race_id,race_year,race_name,race_date,circuit_location,driver_id,driver_name,driver_number,driver_nationality,team,grid,fastest_lap,race_time,points,position,file_date,created_date
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,847,George Russell,63,British,Williams,12,28,\N,0,null,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,842,Pierre Gasly,10,French,AlphaTauri,5,52,+52.818,6,7,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,841,Antonio Giovinazzi,99,Italian,Alfa Romeo,17,57,\N,0,14,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,846,Lando Norris,4,British,McLaren,7,63,+23.702,15,3,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,822,Valtteri Bottas,77,Finnish,Mercedes,8,30,\N,0,null,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,852,Yuki Tsunoda,null,Japanese,AlphaTauri,20,49,+73.184,0,12,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,844,Charles Leclerc,16,Monegasque,Ferrari,4,60,+25.579,12,4,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,839,Esteban Ocon,31,French,Alpine F1 Team,9,62,+65.704,2,9,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,4,Fernando Alonso,14,Spanish,Alpine F1 Team,15,62,+66.561,1,10,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,1,Lewis Hamilton,44,British,Mercedes,1,60,+22.000,19,2,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,830,Max Verstappen,33,Dutch,Red Bull,3,60,2:02:34.598,25,1,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,832,Carlos Sainz,55,Spanish,Ferrari,11,60,+27.036,10,5,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,853,Nikita Mazepin,null,Russian,Haas F1 Team,19,55,\N,0,17,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,817,Daniel Ricciardo,3,Australian,McLaren,6,54,+51.220,8,6,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,849,Nicholas Latifi,6,Canadian,Williams,14,null,\N,0,null,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,854,Mick Schumacher,null,German,Haas F1 Team,18,58,\N,0,16,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,8,Kimi Räikkönen,7,Finnish,Alfa Romeo,16,62,+94.773,0,13,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,20,Sebastian Vettel,5,German,Aston Martin,0,59,\N,0,15,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,815,Sergio Pérez,11,Mexican,Red Bull,2,62,+67.151,0,11,2021-04-18,2026-02-23T19:19:12.62007Z
+1053,2021,Emilia Romagna Grand Prix,2021-04-18T13:00:00Z,Imola,840,Lance Stroll,18,Canadian,Aston Martin,10,59,+56.909,4,8,2021-04-18,2026-02-23T19:19:12.62007Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,842,Pierre Gasly,10,French,AlphaTauri,5,48,\N,0,17,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,822,Valtteri Bottas,77,Finnish,Mercedes,3,56,+37.383,16,3,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,840,Lance Stroll,18,Canadian,Aston Martin,10,31,+86.713,1,10,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,20,Sebastian Vettel,5,German,Aston Martin,20,26,\N,0,15,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,8,Kimi Räikkönen,7,Finnish,Alfa Romeo,14,45,+88.864,0,11,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,832,Carlos Sainz,55,Spanish,Ferrari,8,48,+67.100,4,8,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,841,Antonio Giovinazzi,99,Italian,Alfa Romeo,12,32,\N,0,12,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,4,Fernando Alonso,14,Spanish,Alpine F1 Team,9,31,\N,0,null,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,815,Sergio Pérez,11,Mexican,Red Bull,0,44,+52.047,10,5,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,839,Esteban Ocon,31,French,Alpine F1 Team,16,33,\N,0,13,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,854,Mick Schumacher,null,German,Haas F1 Team,18,38,\N,0,16,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,847,George Russell,63,British,Williams,15,40,\N,0,14,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,844,Charles Leclerc,16,Monegasque,Ferrari,4,39,+59.090,8,6,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,817,Daniel Ricciardo,3,Australian,McLaren,6,36,+66.004,6,7,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,853,Nikita Mazepin,null,Russian,Haas F1 Team,19,null,\N,0,null,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,846,Lando Norris,4,British,McLaren,7,38,+46.466,12,4,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,849,Nicholas Latifi,6,Canadian,Williams,17,16,\N,0,18,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,830,Max Verstappen,33,Dutch,Red Bull,1,41,+0.745,18,2,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,852,Yuki Tsunoda,null,Japanese,AlphaTauri,13,38,+85.692,2,9,2021-03-28,2026-02-23T19:09:56.447842Z
+1052,2021,Bahrain Grand Prix,2021-03-28T15:00:00Z,Sakhir,1,Lewis Hamilton,44,British,Mercedes,2,44,1:32:03.897,25,1,2021-03-28,2026-02-23T19:09:56.447842Z
